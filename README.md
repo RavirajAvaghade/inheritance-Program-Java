@@ -1,4 +1,4 @@
-## 📘 Java Inheritance Programs
+## 📘 Java Inheritance Programs ##
 
 This repository contains various Java programs that demonstrate the concept of **Inheritance** in Object-Oriented Programming (OOP).
 
